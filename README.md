@@ -1,4 +1,4 @@
 # SCCP-dataset
-The repo contains SCCP (Some Cute Cats on Pillow) dataset, which can (maybe) use at Few Shot Learning.
+The repo contains SCCoP (Some Cute Cats on Pillow) dataset, which can (maybe) use at Few Shot Learning.
 
-Currently, there have 8 kinds of cats, each of them contains 60 images.
+Currently, there have 8 kinds of cats, and each of them contains 60 images.
